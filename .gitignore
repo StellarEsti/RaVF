@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.sites-runtime/
+*.log
+*.local
+.DS_Store
+.idea/
+.vscode/
